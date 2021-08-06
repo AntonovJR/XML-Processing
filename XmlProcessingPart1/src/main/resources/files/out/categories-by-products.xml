@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category name="For Children" products-count="43" average-price="739.20" total-revenue="31785.76"/>
+    <category name="Adult" products-count="40" average-price="755.55" total-revenue="30222.23"/>
+    <category name="Business" products-count="40" average-price="763.68" total-revenue="30547.36"/>
+    <category name="Drugs" products-count="39" average-price="753.29" total-revenue="29378.49"/>
+    <category name="Fashion" products-count="36" average-price="736.84" total-revenue="26526.48"/>
+    <category name="Electronics" products-count="35" average-price="749.12" total-revenue="26219.54"/>
+    <category name="Other" products-count="33" average-price="743.63" total-revenue="24539.89"/>
+    <category name="Garden" products-count="30" average-price="727.83" total-revenue="21834.94"/>
+    <category name="Sports" products-count="27" average-price="790.81" total-revenue="21351.91"/>
+    <category name="Weapons" products-count="26" average-price="774.74" total-revenue="20143.36"/>
+    <category name="Autoparts" products-count="23" average-price="831.54" total-revenue="19125.64"/>
+</categories>
